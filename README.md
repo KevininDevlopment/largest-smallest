@@ -1,0 +1,1 @@
+Java console program that outputs the smallest and largest number from a list of 10.
